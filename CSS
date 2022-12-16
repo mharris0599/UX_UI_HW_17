@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    font-family: "Lato', sans-serif";
+}
+
+header{
+    background-color: white;
+    height: 288px;
+    max-height: 288px;
+    background-position: center;
+}
+
+.donatebutton{
+    font-size: 15;
+    font-weight: bold;
+    color: white;
+    background-color: #396A4A;
+    text-align: center;
+    height: 25px;
+    width: 100px;
+}
+
+.navbar{
+    background-color: #e5f2e6;
+    height: 50px;
+    max-height: 50px;
+}
+
+.navbarbuttons{
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.leftsidenavbar{
+    background-color: #e5f2e6;
+    height: 1024px;
+}
